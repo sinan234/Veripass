@@ -118,9 +118,9 @@ return (
             </div> 
             <button onClick={Submit} className='bg-violet-400 flex justify-center w-72 items-center text-black text-base rounded-lg px-3 py-2 mt-10'>Submit</button>
              </> )} 
-             {/* ... Rest of the JSX ... */}
+           
       
              </div> 
              );
          } 
-         export default App; 
+  export default App; 
